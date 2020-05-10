@@ -1,2 +1,3 @@
 # go-api-demo
-A simple demo API server that exports Prometheus metrics.
+
+A demo API server that exports Prometheus metrics.
